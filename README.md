@@ -19,16 +19,16 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-# Título do Projeto Extremamente Aesthetic ;)
+# IA, um futuro nem tão distante assim
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Ebook criado totalmente por ferramentas de IA. Tanto o texto, como a capa e as imagens.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGpt, Gemini, COpilot, Leonardo.ia e Canva
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criei a partir das ferramentas de criação com IA. 
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
